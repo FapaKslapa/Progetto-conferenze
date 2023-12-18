@@ -1,0 +1,94 @@
+{
+  "professori": [
+    {
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "mail": "mario.rossi@email.com",
+      "password": "password1"
+    },
+    {
+      "nome": "Anna",
+      "cognome": "Bianchi",
+      "mail": "anna.bianchi@email.com",
+      "password": "password2"
+    },
+    {
+      "nome": "Luca",
+      "cognome": "Verdi",
+      "mail": "luca.verdi@email.com",
+      "password": "password3"
+    },
+    {
+      "nome": "Laura",
+      "cognome": "Rizzo",
+      "mail": "laura.rizzo@email.com",
+      "password": "password4"
+    },
+    {
+      "nome": "Giovanni",
+      "cognome": "Ferrari",
+      "mail": "giovanni.ferrari@email.com",
+      "password": "password5"
+    },
+    {
+      "nome": "Paola",
+      "cognome": "Moretti",
+      "mail": "paola.moretti@email.com",
+      "password": "password6"
+    },
+    {
+      "nome": "Enrico",
+      "cognome": "Conti",
+      "mail": "enrico.conti@email.com",
+      "password": "password7"
+    },
+    {
+      "nome": "Silvia",
+      "cognome": "Esposito",
+      "mail": "silvia.esposito@email.com",
+      "password": "password8"
+    },
+    {
+      "nome": "Marco",
+      "cognome": "Galli",
+      "mail": "marco.galli@email.com",
+      "password": "password9"
+    },
+    {
+      "nome": "Elena",
+      "cognome": "Ricci",
+      "mail": "elena.ricci@email.com",
+      "password": "password10"
+    },
+    {
+      "nome": "Roberto",
+      "cognome": "Pellegrini",
+      "mail": "roberto.pellegrini@email.com",
+      "password": "password11"
+    },
+    {
+      "nome": "Chiara",
+      "cognome": "Barone",
+      "mail": "chiara.barone@email.com",
+      "password": "password12"
+    },
+    {
+      "nome": "Alessio",
+      "cognome": "Marino",
+      "mail": "alessio.marino@email.com",
+      "password": "password13"
+    },
+    {
+      "nome": "Francesca",
+      "cognome": "Caruso",
+      "mail": "francesca.caruso@email.com",
+      "password": "password14"
+    },
+    {
+      "nome": "Paolo",
+      "cognome": "Ricciardi",
+      "mail": "paolo.ricciardi@email.com",
+      "password": "password15"
+    }
+  ]
+}

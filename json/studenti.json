@@ -1,0 +1,200 @@
+{
+  "studenti": [
+    {
+      "nome": "Francesco",
+      "cognome": "Martini"
+    },
+    {
+      "nome": "Giulia",
+      "cognome": "Bianco"
+    },
+    {
+      "nome": "Lorenzo",
+      "cognome": "Ricci"
+    },
+    {
+      "nome": "Camilla",
+      "cognome": "Ferrari"
+    },
+    {
+      "nome": "Andrea",
+      "cognome": "Romano"
+    },
+    {
+      "nome": "Alessia",
+      "cognome": "Moretti"
+    },
+    {
+      "nome": "Davide",
+      "cognome": "Longo"
+    },
+    {
+      "nome": "Valentina",
+      "cognome": "Galli"
+    },
+    {
+      "nome": "Riccardo",
+      "cognome": "Rizzo"
+    },
+    {
+      "nome": "Sofia",
+      "cognome": "Marchetti"
+    },
+    {
+      "nome": "Luigi",
+      "cognome": "Rossi"
+    },
+    {
+      "nome": "Elena",
+      "cognome": "Conti"
+    },
+    {
+      "nome": "Giovanni",
+      "cognome": "Vitale"
+    },
+    {
+      "nome": "Laura",
+      "cognome": "De Angelis"
+    },
+    {
+      "nome": "Matteo",
+      "cognome": "Pellegrini"
+    },
+    {
+      "nome": "Alice",
+      "cognome": "Mancini"
+    },
+    {
+      "nome": "Marco",
+      "cognome": "Riva"
+    },
+    {
+      "nome": "Isabella",
+      "cognome": "Gallo"
+    },
+    {
+      "nome": "Fabio",
+      "cognome": "Ricciardi"
+    },
+    {
+      "nome": "Simona",
+      "cognome": "Piras"
+    },
+    {
+      "nome": "Luca",
+      "cognome": "Villa"
+    },
+    {
+      "nome": "Arianna",
+      "cognome": "Caruso"
+    },
+    {
+      "nome": "Nicola",
+      "cognome": "Ferri"
+    },
+    {
+      "nome": "Sara",
+      "cognome": "Santoro"
+    },
+    {
+      "nome": "Tommaso",
+      "cognome": "Fabbri"
+    },
+    {
+      "nome": "Elisa",
+      "cognome": "Sorrento"
+    },
+    {
+      "nome": "Alessandro",
+      "cognome": "Rossetti"
+    },
+    {
+      "nome": "Caterina",
+      "cognome": "Greco"
+    },
+    {
+      "nome": "Paolo",
+      "cognome": "Leone"
+    },
+    {
+      "nome": "Chiara",
+      "cognome": "Barbieri"
+    },
+    {
+      "nome": "Gianluca",
+      "cognome": "Silvestri"
+    },
+    {
+      "nome": "Roberta",
+      "cognome": "De Luca"
+    },
+    {
+      "nome": "Daniele",
+      "cognome": "Guerini"
+    },
+    {
+      "nome": "Marta",
+      "cognome": "Mariani"
+    },
+    {
+      "nome": "Filippo",
+      "cognome": "Galli"
+    },
+    {
+      "nome": "Valeria",
+      "cognome": "Greco"
+    },
+    {
+      "nome": "Gabriele",
+      "cognome": "Romano"
+    },
+    {
+      "nome": "Veronica",
+      "cognome": "Costa"
+    },
+    {
+      "nome": "Luigi",
+      "cognome": "Serra"
+    },
+    {
+      "nome": "Serena",
+      "cognome": "Marchetti"
+    },
+    {
+      "nome": "Paolo",
+      "cognome": "Ricci"
+    },
+    {
+      "nome": "Eleonora",
+      "cognome": "De Rosa"
+    },
+    {
+      "nome": "Roberto",
+      "cognome": "Monti"
+    },
+    {
+      "nome": "Aurora",
+      "cognome": "Fabbri"
+    },
+    {
+      "nome": "Emanuele",
+      "cognome": "Barbieri"
+    },
+    {
+      "nome": "Davide",
+      "cognome": "Ciaramidaro"
+    },
+    {
+      "nome": "Mael",
+      "cognome": "Ghezzi"
+    },
+    {
+      "nome": "Mattia",
+      "cognome": "Pedicini"
+    },
+    {
+      "nome": "Stefano",
+      "cognome": "Marocco"
+    }
+  ]
+}

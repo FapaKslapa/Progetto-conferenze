@@ -1,0 +1,12 @@
+{
+  "admin" : [
+  {"email": "admin",
+  "password": "admin"},
+  {"email": "maroccostefano@itis-molinari.eu",
+  "password": "admin"},
+  {"email": "malinvernovittorio@itis-molinari.eu",
+  "password": "admin"},
+  {"email": "nobilicristian@itis-molinari.eu",
+  "password": "admin"}
+  ]
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<head>
+  <!-- altro -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- titolo del progetto -->
+  <title>Professore</title>
+
+  <!-- bootstrap -->
+  <link href="https://fonts.cdnfonts.com/css/coolvetica-2" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/made-tommy-soft-outline" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/paytone-one" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/made-tommy-outline" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/ol@v8.1.0/dist/ol.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v8.1.0/ol.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+
+  <link href="src/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>Professore</h1>
+    <div class="card card-body" id="cardAccedi">
+
+      <h2 class="card-title text-white">Accedi <a href="index.html"><img width="30" height="30" src="icon/esci.svg"
+            alt="Logout"></a></h2>
+      <div id="errore">
+      </div>
+      <form method="post" action="#" onsubmit="return false">
+        <div class="row">
+          <div class="col">
+            <div class="form-floating">
+              <input type="text" class="form-control" id="emailProfessore" placeholder="" required>
+              <label for="emailProfessore">Email</label>
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-floating">
+              <input type="password" class="form-control" id="passwordProfessore" placeholder="" required>
+              <label for="passwordProfessore">Password</label>
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="row justify-content-end">
+          <div class="col-auto">
+            <button type="submit" id="submit" class="btn btn-outline-primary"><img width="30" height="30"
+                src="icon/entra.svg" alt="Invia"></button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="card card-body displayNone" id="cardSubmit">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+          <a class="navbar-brand text-white" href="#">Classi</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" data-bs-theme="dark">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html"><img width="30" height="30" src="icon/esci.svg" alt="Invia"></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <!-- sezione di scompartimenti a scomparsa con testo e tabella -->
+      <div class="accordion" id="compartimenti_a_scomparsa" data-bs-theme="dark"></div>
+    </div>
+  </div>
+
+  <!-- js -->
+  <script src="prof/prof.js" type="module"></script>
+</body>
